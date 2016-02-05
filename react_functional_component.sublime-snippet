@@ -3,12 +3,11 @@
 import React from 'react';
 
 export default ${1:(props)} => {
-	render() {
-		return ${2:(
-			${3:<div>${0}</div>}
-		);}
-	}
+	return ${2:(
+		${3:<div>${0}</div>}
+	);}
 }
+
 
 ]]></content>
     <tabTrigger>rfc</tabTrigger>
