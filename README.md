@@ -28,7 +28,9 @@ To set a key binding, go to "Preferences: Key Bindings - User" from the Command 
 
 | Trigger  | Content |
 | -------: | ------- |
-| `rcc→`   | class component skeleton |
+| `rc→`   | class component skeleton |
+| `rf→`   | functional component skeleton |
+| `rcc→`   | class component skeleton with constructor |
 | `rcc→`   | legacy component skeleton |
 | `cdm→`   | `componentDidMount() {…}` |
 | `cdup→`  | `componentDidUpdate(prevProps, prevState) {…}` |
